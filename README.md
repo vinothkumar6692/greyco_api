@@ -8,7 +8,7 @@ Requirements
 
 * Python 2.7.x 
 
-And the following modules (found in [requirements.txt](https://github.com/vinothkumar6692/greyco_api/greystone/requirements.txt)):
+And the following modules (found in [requirements.txt](https://github.com/vinothkumar6692/greyco_api/blob/master/greystone/requirements.txt)):
 
 
 Setup
