@@ -72,6 +72,12 @@ Return a JSON list of Message objects that are currently being stored.
 
   * **Code:** 200 <br />
 
+* **Content:**
+  
+  ```bash
+  {“messages”: [{“message_text”: “hello world”, “id”: 1}]}
+  ``` 
+
 
 --
 ### POST Message
