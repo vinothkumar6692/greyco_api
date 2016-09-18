@@ -10,10 +10,6 @@ Requirements
 
 And the following modules (found in [requirements.txt](https://github.com/vinothkumar6692/greyco_api/greystone/requirements.txt)):
 
-  Django==1.8.4
-  django-autoslug==1.7.2
-  django-filter==0.14.0
-  djangorestframework==3.4.6
 
 Setup
 =======
@@ -117,7 +113,7 @@ None
 
 * **Content:**
   
-  ```json
+  ```bash
   {“message”: {“message_text”: “hello world”, “id”: 1}]}}
   ``` 
 
