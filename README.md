@@ -101,11 +101,11 @@ Should accept a “message_text” parameter that creates a Message object and s
 
 **Required:**
 
-JSON Data Object
+* **JSON Object:**
 
+```bash
 { “message_text”: “hello world” }
-
-None
+```
 
 * **Success Response:**
 
